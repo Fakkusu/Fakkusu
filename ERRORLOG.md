@@ -1,4 +1,4 @@
----- Minecraft Crash Report ----
+---- Crash Report ----
 // Who set us up the TNT?
 
 Time: 2023-11-20 16:48:39
